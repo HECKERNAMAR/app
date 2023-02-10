@@ -1,0 +1,27 @@
+html{
+  background-color:black;
+}
+.game{
+  background-color:white;
+  color:black;
+    font-size: 50px;
+}
+/* unvisited link */
+game:link {
+  color: black;
+}
+
+/* visited link */
+game:visited {
+  color: black;
+}
+
+/* mouse over link */
+game:hover {
+  color: black;
+}
+
+/* selected link */
+game:active {
+  color: black;
+}
